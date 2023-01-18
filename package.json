@@ -1,0 +1,19 @@
+{
+  "name": "scrolling-breadcrumbs",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoryLR/scrolling-breadcrumbs.git"
+  },
+  "author": "Cory Leigh Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoryLR/scrolling-breadcrumbs/issues"
+  },
+  "homepage": "https://github.com/CoryLR/scrolling-breadcrumbs#readme"
+}
